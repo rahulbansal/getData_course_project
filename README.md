@@ -20,3 +20,5 @@ DESCRIPTION OF THE WORKING OF THE SCRIPT
 9. After iteration ends, the resulting data frame will have average of each variable for each activity and each subject.
 
 10. Write the data frame to a text file.
+
+The resulting data has 180 rows (each one of the 30 subjects has a row for each one of the 6 activities).
