@@ -1,0 +1,3 @@
+DESCRIPTION OF THE VARIABLES IN THE SCRIPT
+======================
+
